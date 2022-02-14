@@ -1,8 +1,11 @@
-# Assignment 4: Building an App Using Django Rest Framework Backend and a React Frontend
+# Assignment 4: Building an App Using Django Rest Framework Backend and a React Frontend - Instructions
 
 Arica Conrad
+
 BIT 465 - REST API Development
+
 February 13, 2022
+
 Assignment 4: Building an App Using Django Rest Framework Backend and a React Frontend
 
 ## Introduction
